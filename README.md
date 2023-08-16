@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jatin Ray</h1>
 <h3 align="center">A passionate Data Science Security Intern from India</h3>
-![data-security1](https://github.com/jatinray99/jatinray99/assets/97835550/de6d0cc0-8f42-4b25-a1d7-e19fef4fbfdd)
+![data-security1](https://github.com/jatinray99/jatinray99/raw/main/assets/97835550/14dda8e2-5c50-4597-8968-5a19770c1a71.jpg)
 
 - 🔭 I’m currently working on **Retail Price Optimisation**
-- 
+  
 - 🔭 I’m currently working on **House Price Prediction**
-
+  
 - 🔭 I’m currently working on **Smart Cart**
 
 - 👯 I’m looking to collaborate on **VAPT for a website**
