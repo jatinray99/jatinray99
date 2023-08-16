@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jatin Ray</h1>
 <h3 align="center">A passionate Data Science Security Intern from India</h3>
-![data-security1](https://github.com/jatinray99/jatinray99/assets/97835550/751d7633-8447-4c3f-8c3d-fed10ff2b416)
+![data-security1](https://github.com/jatinray99/jatinray99/assets/97835550/de6d0cc0-8f42-4b25-a1d7-e19fef4fbfdd)
 
 - 🔭 I’m currently working on **Retail Price Optimisation**
 - 
