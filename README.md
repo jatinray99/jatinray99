@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jatin Ray</h1>
 ![data-security1](https://github.com/jatinray99/jatinray99/assets/97835550/19966da4-aae9-42a5-a13a-21cdc131ab28)
+<h1 align="center">Hi 👋, I'm Jatin Ray</h1>
 <h3 align="center">A passionate Data Science Security Intern from India</h3>
 
 - 🔭 I’m currently working on **Retail Price Optimisation**
