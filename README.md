@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Jatin Ray</h1>
 <h3 align="center">A passionate Data Science Security Intern from India</h3>
-
+[![An image of @jatinray99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jatinray99)](https://holopin.io/@jatinray99)
 - 🔭 I’m currently working on **Retail Price Optimisation**
 
 - 👯 I’m looking to collaborate on **VAPT for a website**
