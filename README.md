@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **VAPT on a website**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/jatin-ray-6701a4251/](https://www.linkedin.com/in/jatin-ray-6701a4251/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/jatin-ray/](https://www.linkedin.com/in/jatin-ray/)
 
 - 📫 How to reach me **rayjatin1234@gmail.com**
 
